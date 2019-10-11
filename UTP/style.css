@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  font-family:'Ranchers', cursive;
+  font-Family:'Bitter', serif;
+  font-family:'Bungee', cursive;
+}
